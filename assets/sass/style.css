@@ -1765,7 +1765,7 @@ img {
   border-radius: 0;
 }
 .wpo-site-header .navigation .navbar-header .logo {
-  font-size: 45px;
+  font-size: 40px;
   font-family: "Sail", cursive;
   color: #101010;
 }
@@ -1773,6 +1773,9 @@ img {
   .wpo-site-header .navigation .navbar-header .logo {
     font-size: 40px;
   }
+  .wpo-site-header .navigation .navbar-header .logo {
+  font-size:30px;
+}
 }
 .wpo-site-header .navigation .navbar-header .logo span {
   position: relative;
@@ -2996,7 +2999,7 @@ img {
   }
 }
 .static-hero .slide-title h1 {
-  font-size: 100px;
+  font-size: 87px;
   font-weight: 500;
   line-height: 60px;
   margin: 10px 0 35px;
