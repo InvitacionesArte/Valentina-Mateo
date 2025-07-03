@@ -1746,8 +1746,9 @@ img {
   background-color: #fff;
 }
 @media (min-width: 991px) {
-  .wpo-site-header {
+  .wpo-site-header { 
     padding: 0 130px;
+    
   }
 }
 @media (min-width: 991px) {
@@ -2583,7 +2584,6 @@ img {
   }
   .wpo-site-header #navbar > ul .menu-item-has-children > a:before {
     font-family: "themify";
-    content: "\e649";
     font-size: 11px;
     font-size: 0.7333333333rem;
     position: absolute;
